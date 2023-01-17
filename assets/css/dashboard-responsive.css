@@ -1,0 +1,134 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+
+
+
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+ 
+
+/* -------------------------- main-dashboard-start ------------------------------- */
+.user-membarship-area {
+    padding: 20px 20px;
+}
+.membarship-date p {
+	font-size: 16px;
+}
+.membarship-date span {
+	font-size: 12px;
+}
+.membarship-active-area span {
+    font-size: 14px;
+}
+.membarship-btn a {
+	font-size: 14px;
+	padding: 10px 50px;
+}
+.dashboard-main-menu ul li {
+	font-size: 18px;
+	padding: 20px 10px 20px 40px;
+}
+
+/* -------------------------- main-dashboard-end ------------------------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+/* -------------------------------- main-dashboard-start ---------------------------- */
+.user-info-img {
+	width: 100px;
+	height: 90px;
+}
+.user-info-name {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+/* -------------------------------- main-dashboard-end ---------------------------- */
+ 
+
+
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+ 
+/* --------------------------------- main-dashboard-start ------------------------ */
+.user-membarship-area {
+	padding: 20px 15px;
+}
+.membarship-date p {
+	font-size: 16px;
+}
+.membarship-date span {
+	font-size: 12px;
+}
+.membarship-active-area span {
+	font-size: 14px;
+}
+.membarship-btn a {
+	font-size: 14px;
+	padding: 10px 50px;
+}
+.dashboard-main-menu ul li {
+	font-size: 18px;
+	padding: 20px 10px 20px 35px;
+}
+/* --------------------------------- main-dashboard-end ------------------------ */
+
+
+
+
+
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+
+/* ---------------------------- main-dashboard-start ------------------------------ */
+.user-info-name {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+.user-info-img {
+	width: 110px;
+}
+
+
+
+/* ----------------------------- main-dashboard-end ---------------------------------- */
+
+
+
+
+
+}
